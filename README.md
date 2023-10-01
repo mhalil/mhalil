@@ -16,7 +16,16 @@
 </p>
 
 <h3 align="left">Bildiğim Programlama Dilleri ve Araçlar:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.pola.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="polars" width="60" height="40"/> </a>
+  <a href="https://github.com/flet-dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/102273996?s=280&v=4" alt="Flet" width="40" height="40"/> </a>
+  <a href="https://github.com/asweigart/pyautogui" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3prQmOkDUBXbqxnK5VlY3Q.png" alt="PyAutoGUI" width="140" height="40"/> </a>
+  <a href="https://docs.python.org/3/library/re.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mhalil/Duzenli_ifadeler/main/img/regex.png" alt="RegEx" width="120" height="40"/> </a>
+
+</p>
+
 
 <h3 align="left">Oluşturduğum Türkçe Kaynaklar:</h3> <br>
 <p align="left">
