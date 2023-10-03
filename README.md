@@ -40,6 +40,9 @@
 * [Silk ÇalışmaTezgahı (WorkBench) Notları](https://github.com/mhalil/Silk_WB_Notlari)
 * [LibreCAD Kısayol Tuşları Tablosu](https://github.com/mhalil/LibreCAD/blob/main/LibreCAD%20K%C4%B1sayol%20Tu%C5%9Flar%C4%B1.md)
 
+### Blender 3D
+* [Blender Eğitim Notları](https://mhalil.github.io/Blender.html)
+
 # .:: Python Dünyası ::.
 * [Düzenli İfadeler (Regular Expressions)](https://github.com/mhalil/Duzenli_ifadeler)
 * [Pandas Notları](https://github.com/mhalil/Pandas_Notlari)
