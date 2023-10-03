@@ -1,6 +1,7 @@
-<h1 align="center">Merhaba, Ben Mustafa Halil</h1>
-<h3 align="center">3 Boyutlu Modelleme, Render Alma, Animasyon Oluşturma, Vectörel ve Bitmap Grafik becerileri kazanmak ve Python dili ile programlama öğrenmeye çabalayan Makine Mühendisiyim.</h3>
-<h4 align="center">Öğrendiklerimi GitHub sayfamda sizlerle paylaşıyorum. <br> İlgi Alanım: Python, Blender, FreeCAD, SolveSpace, LibreCAD, GIMP, Inkscape</h4>
+<h1 align="center">Mustafa Halil</h1>
+<h3 align="center">2 ve 3 Boyutlu Çizim/Modelleme, Render Alma, Animasyon Oluşturma, Vektörel ve Bitmap Grafik Becerilerimi Geliştirmeye çalışan ve Python dili ile programlama öğrenmeye çabalayan bir Makine Mühendisiyim.</h3>
+<h4 align="center">Öğrendiklerimi GitHub sayfamda sizlerle paylaşıyorum. <br> 
+İlgi Alanım: Python, Blender, FreeCAD, SolveSpace, LibreCAD, GIMP, Inkscape</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhalil&label=Profile%20views&color=0e75b6&style=flat" alt="mhalil" /> </p>
 
