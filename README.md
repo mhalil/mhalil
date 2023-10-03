@@ -27,15 +27,24 @@
 
 <h3 align="left">Oluşturduğum Türkçe Kaynaklar:</h3> <br>
 <p align="left">
-  
+
+# 3D Dünyası
+### SolveSpace
+* [Solvespace Basvuru Kılavuzu](https://github.com/mhalil/Solvespace_basvuru_kilavuzu)
+
+### FreeCAD
 * [FreeCAD Kullanım Kılavuzu](https://github.com/mhalil/FreeCAD)
 * [FreeCAD Scripting Eğitim Notları](https://mhalil.github.io/Freecad_scripting.html)
-* [Solvespace Basvuru Kılavuzu](https://github.com/mhalil/Solvespace_basvuru_kilavuzu)
+* [Curves Workbench - Curves Menü Komutları](https://mhalil.github.io/Freecad_curves_wb_curves.html)
+* [Curves Workbench - Surfaces Menü Komutları ](https://mhalil.github.io/Freecad_curves_wb_surfaces.html)
+* [Silk ÇalışmaTezgahı (WorkBench) Notları](https://github.com/mhalil/Silk_WB_Notlari)
 * [LibreCAD Kısayol Tuşları Tablosu](https://github.com/mhalil/LibreCAD/blob/main/LibreCAD%20K%C4%B1sayol%20Tu%C5%9Flar%C4%B1.md)
-* [PyAutoGUI Notları](https://github.com/mhalil/PyAutoGUI)
+
+# Python
 * [Düzenli İfadeler (Regular Expressions)](https://github.com/mhalil/Duzenli_ifadeler)
 * [Pandas Notları](https://github.com/mhalil/Pandas_Notlari)
 * [Polars Notları](https://github.com/mhalil/Polars_Notlari)
+* [PyAutoGUI Notları](https://github.com/mhalil/PyAutoGUI)
 * [Flet Belgeleri](https://github.com/mhalil/Flet_Belgeleri)
-* [Silk ÇalışmaTezgahı (FreeCAD WorkBench) Notları](https://github.com/mhalil/Silk_WB_Notlari)
+
 </p>
