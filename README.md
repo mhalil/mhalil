@@ -29,6 +29,7 @@
 <p align="left">
   
 * [FreeCAD Kullanım Kılavuzu](https://github.com/mhalil/FreeCAD)
+* [FreeCAD Scripting Eğitim Notları](https://mhalil.github.io/Freecad_scripting.html)
 * [Solvespace Basvuru Kılavuzu](https://github.com/mhalil/Solvespace_basvuru_kilavuzu)
 * [LibreCAD Kısayol Tuşları Tablosu](https://github.com/mhalil/LibreCAD/blob/main/LibreCAD%20K%C4%B1sayol%20Tu%C5%9Flar%C4%B1.md)
 * [PyAutoGUI Notları](https://github.com/mhalil/PyAutoGUI)
@@ -36,5 +37,5 @@
 * [Pandas Notları](https://github.com/mhalil/Pandas_Notlari)
 * [Polars Notları](https://github.com/mhalil/Polars_Notlari)
 * [Flet Belgeleri](https://github.com/mhalil/Flet_Belgeleri)
-* [Silk ÇalışmaTezgahı (WorkBench) Notları](https://github.com/mhalil/Silk_WB_Notlari)
+* [Silk ÇalışmaTezgahı (FreeCAD WorkBench) Notları](https://github.com/mhalil/Silk_WB_Notlari)
 </p>
