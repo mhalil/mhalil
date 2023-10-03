@@ -1,5 +1,3 @@
-### Herkese Selamlar 👋
-
 <h1 align="center">Merhaba, Ben Mustafa Halil</h1>
 <h3 align="center">3D Dünyasına ait bilgiler ve Python öğrenmeye çabalayan Makine Mühendisiyim.</h3>
 <h4 align="center">Öğrendiklerimi GitHub sayfamda sizlerle paylaşıyorum. <br> İlgi Alanım: Python, Blender, FreeCAD, SolveSpace, LibreCAD, GIMP, Inkscape</h4>
