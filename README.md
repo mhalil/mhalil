@@ -11,7 +11,7 @@
 <a href="https://medium.com/@m-halil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m-halil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mustafahalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafahalil" height="30" width="40" /></a>
 <a href="https://www.artstation.com/mustafahalil" target="blank"><img align="center" src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" alt="mustafahalil" height="30" width="33" /></a>
-<a href="https://grabcad.com/mustafa.halil-1" target="blank"><img align="center" src="https://lh5.ggpht.com/3hx3IUqaqZ7ef0V26rD5xELxWfszchiYSbVSR7qPlxK3Jz-3eEBh0VLGBdubha_XVwcB=w512" alt="mustafa.halil-1" height="30" width="100" /></a>
+<a href="https://grabcad.com/mustafa.halil-1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlj1ZyPVdOtvQ48Lbuf809SpgJWMbhHQEW8xg3ATut0fkfqwXUVK7jo05gKj_GTcplQ&usqp=CAU" alt="mustafa.halil-1" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Bildiğim Programlama Dilleri ve Araçlar:</h3>
