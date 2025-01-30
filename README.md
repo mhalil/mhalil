@@ -10,7 +10,7 @@
 <a href="https://twitter.com/acikkaynakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acikkaynakci" height="30" width="40" /></a>
 <a href="https://medium.com/@m-halil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m-halil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mustafahalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafahalil" height="30" width="40" /></a>
-<a href="https://www.artstation.com/mustafahalil" target="blank"><img align="center" src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" alt="mustafahalil" height="30" width="33" /></a>
+<a href="https://www.artstation.com/mustafahalil" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-1024.png" alt="mustafahalil" height="30" width="33" /></a>
 <a href="https://grabcad.com/mustafa.halil-1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlj1ZyPVdOtvQ48Lbuf809SpgJWMbhHQEW8xg3ATut0fkfqwXUVK7jo05gKj_GTcplQ&usqp=CAU" alt="mustafa.halil-1" height="30" width="100" /></a>
 </p>
 
